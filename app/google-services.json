@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205102148207",
+    "firebase_url": "https://yoonseo-sample.firebaseio.com",
+    "project_id": "yoonseo-sample",
+    "storage_bucket": "yoonseo-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205102148207:android:9a6d8e3cca30e0360efb9a",
+        "android_client_info": {
+          "package_name": "com.example.samplehi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205102148207-qpitnjjcl7h8dtf3rldfhpptdgrgt3ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-NmVMt4pCDYPKSwk_S6YRZeRYgGPxKLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205102148207-qpitnjjcl7h8dtf3rldfhpptdgrgt3ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
